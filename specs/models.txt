@@ -1,0 +1,11 @@
+
+billboard:
+    name: String
+    height: Integer
+    price: Integer
+    ipfsHash: String
+    timestamp: Time
+    link: String
+
+Page: 
+    billboards: billboard[]
